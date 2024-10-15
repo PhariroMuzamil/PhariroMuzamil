@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhariroMuzamil
 - 👀 I’m interested in Coding and Computer related works
-- 🌱 I’m currently learning Bs AI at QUEST
+- 🌱 I’m currently learning Bs AI @ QUEST
 - 💞️ I’m looking to collaborate on various projects
 - 📫 You can contact me through:
 -    gmail: phariromuzamil@gmail.com
